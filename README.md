@@ -5,7 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitch.tv/fragabr)
 
-![new GitHub stats](https://github-readme-stats.vercel.app/api?username=newbacana&show_icons=true&theme=dracula)
+![new GitHub stats](https://github-readme-stats.vercel.app/api?username=newbacana&show_icons=true&theme=dracula)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newbacana)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia/dia
 
