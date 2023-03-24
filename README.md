@@ -1,6 +1,5 @@
 ### Olá eu sou o Claudio Soares 😎
 
-[![Blog](https://aleen42.github.io/badges/src/lamborghini.svg)](https://sujeitoprogramador.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitch.tv/fragabr)
