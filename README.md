@@ -1,4 +1,4 @@
-### Olá eu sou o Claudio Soares 😎
+### Olá eu sou o LUIZ SILVA 😎
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
@@ -17,7 +17,7 @@
     <img olign="center" alt="html" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
     <img olign="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img olign="center" alt="html" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img olign="center" alt="html" src="" />
+    <img olign="center" alt="html" src=""    />
 
 </div><br/>
 
